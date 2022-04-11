@@ -11,3 +11,9 @@ But going into Encora's program helped me to understand that there's more skills
 One of the main habits that I needed to develop was the habit of reading, and this week came with a lecture to be able
 to develop it.
 
+The book Code: The Hidden Lenguage of Computer Hardware & Software by Charles Petzold opens with a short story about
+two boys. As friends they constantly go out and play, when there's time to go back to home they grab a computer and 
+chat for a few minutes, but as kids they have schedules for bed time, just as when we were kids we didn't wanted the 
+fun to be over, so sometimes we found ways of keep playing past bedtime, just as we did the kids in this story found 
+a way to communicate.
+
