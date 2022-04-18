@@ -35,3 +35,17 @@ are actually aware of. We are constantly making use of it and it has grown in so
 ways to express things. 
 
 This book from starters has taken my attention and I hope to make this into a habit.
+
+
+##3rd Week, a short week
+
+This week felt a bit shorter, it was a bit more relaxed due to the vacation period, we all set our goals for the week and prepared to take a break.
+
+Even without much assignments it still came with a lot of learning.
+
+For starters we can mention the test drive development, it consists in having the mind set of constantly setting a goal for the project in the form of tests, going from the state of coding to the release, making a final product that constantly has been under evaluation of real cases and delivering a more polished and efficient application. 
+
+This can be known as a good practice in development, taking unit testing as an example.
+Unit testing are usually identified as a low leve kind of test, it focuses on a small part of the software, this small parts composing the software are  called units which are usually independent between each other.
+
+Between this and many other learnings it summaries a short week  with a lot of learning to do.
