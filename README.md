@@ -37,7 +37,7 @@ ways to express things.
 This book from starters has taken my attention and I hope to make this into a habit.
 
 
-##3rd Week, a short week
+###3rd Week, a short week
 
 This week felt a bit shorter, it was a bit more relaxed due to the vacation period, we all set our goals for the week and prepared to take a break.
 
