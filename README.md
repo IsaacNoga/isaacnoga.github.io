@@ -36,20 +36,6 @@ ways to express things.
 
 This book from starters has taken my attention and I hope to make this into a habit.
 
-
-###3rd Week, a short week
-
-This week felt a bit shorter, it was a bit more relaxed due to the vacation period, we all set our goals for the week and prepared to take a break.
-
-Even without much assignments it still came with a lot of learning.
-
-For starters we can mention the test drive development, it consists in having the mind set of constantly setting a goal for the project in the form of tests, going from the state of coding to the release, making a final product that constantly has been under evaluation of real cases and delivering a more polished and efficient application. 
-
-This can be known as a good practice in development, taking unit testing as an example.
-Unit testing are usually identified as a low leve kind of test, it focuses on a small part of the software, this small parts composing the software are  called units which are usually independent between each other.
-
-Also there’s an experiment that caught my attention, in quantum physics there’s a few things that can’t be easily explained. Physics as we know work with a few set of rules that are attached to a simple reality, but sometimes when talking of physics in a more smaller scale this set of rules can go beyond comprehension, this is when quantum physics makes its entrance.
-
 Back to the XIX century Thomas Young tried to prove that light itself wasn’t made out of particles. The experiment was composed of various elements, for instance there was a beam of light shooting electrons to a double slit as a receptor they had a screen, where the electrons where projected. At first it was under the supervision, and the particles behaved as expected, the projection on the screen was the result of the electrons going trough the double slit, making to lines as a pattern. 
 
 It was until the experiment was kept running and without supervision that it started behaving differently, instead of projecting the double slid as specter, it projected four lines. This proved that the particles didn’t behave as we thought they did. It seems that particles traveled in a wave pattern rather than being shot in a straight line.
